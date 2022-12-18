@@ -1,5 +1,5 @@
 <h1>🌲✨Advent of Code 2022 ✨🌲</h1>
-<h2> --- Day 1: Calorie Counting - Part Two ---</h2>
+<h2>--- Day 1: Calorie Counting - Part 2 ---</h2>
 By the time you calculate the answer to the Elves' question, they've already realized that the Elf carrying the most Calories of food might eventually <strong>run out of snacks.</strong>
 
 <br>

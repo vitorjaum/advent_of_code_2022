@@ -29,5 +29,5 @@ async function loadFile(file) {
     }
   });
 
-  document.getElementById("output").innerText = myScore;
+  document.getElementById("output").innerText = `Result: ${myScore}`;
 }

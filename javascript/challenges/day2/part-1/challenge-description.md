@@ -1,5 +1,5 @@
 <h1>🌲✨Advent of Code 2022 ✨🌲</h1>
-<h2>--- Day 2: Rock Paper Scissors ---</h2>
+<h2>--- Day 2: Rock Paper Scissors - part 1---</h2>
 
 Link: https://adventofcode.com/2022/day/2
 

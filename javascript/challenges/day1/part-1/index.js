@@ -13,7 +13,9 @@ async function loadFile(file) {
     bagsCalories[idx] = bagValue;
   });
 
-  document.getElementById("output").innerText = getHighestValue(bagsCalories);
+  document.getElementById("output").innerText = `Result: ${getHighestValue(
+    bagsCalories
+  )}`;
 }
 
 function getHighestValue(value) {

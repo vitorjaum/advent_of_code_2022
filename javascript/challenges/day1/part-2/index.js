@@ -20,7 +20,7 @@ async function loadFile(file) {
     bagsCalories.splice(bagsCalories.indexOf(currentHighestValue), 1);
   }
 
-  document.getElementById("output").innerText = sumThree;
+  document.getElementById("output").innerText = `Result: ${sumThree}`;
 }
 
 function getHighestValue(value) {
